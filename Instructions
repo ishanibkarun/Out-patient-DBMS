@@ -1,0 +1,2 @@
+The DMBS used is Oracle's MySQL. To connect the program, download MySQL from https://www.mysql.com/downloads/
+Create a database with the hosptial name and two tables for doctors and patients. Also create a table to schedule the appointments.
